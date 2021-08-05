@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackCat", "BlackCat.csproj", "{69DE09C5-FBFE-439D-B791-B91C6689170D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DE09C5-FBFE-439D-B791-B91C6689170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DE09C5-FBFE-439D-B791-B91C6689170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DE09C5-FBFE-439D-B791-B91C6689170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DE09C5-FBFE-439D-B791-B91C6689170D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66AD01F2-E7A8-47D3-997C-D807A5A6A34B}
+	EndGlobalSection
+EndGlobal
